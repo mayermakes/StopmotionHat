@@ -1,0 +1,15 @@
+this is a collection of files for the StopmotionHat for Raspberry Pi as seen on element14presents.
+Author: mayermakes
+YOU can do 3 things with this thing:
+1. Create stopmotion animations with camera movement simultanious on up to 2 Cameras or up to n cameras without movement.
+2. create moving or still timelapse videos with multiple cameras (up to 2 of them moving)
+3. Create your own application that uses DSLR Cameras and stepper motors. Go crazy!
+
+Order a Kit(PCB and Parts) of this project here: LINK
+Files provided in this repo:
+Gerber Files to fabricate the PCB of the device
+BOM with all the parts you need, those are all available at Farnell and Newark
+Direct-Order-Link for the Kit.
+Software to run with the StopmotionHat to create animations and timelapses.
+(You need a network attached device(any smartphone or pc will do) to access the GUI)
+Stl files for a 3d printed case.
